@@ -1,8 +1,9 @@
 console.log("Reseting");
 
 
-// COmment Rest 2
-// ++++ ADDED LINE 6
-// ++++ ADDED LINE 7
+// B2 ADDED LINE 4  
+// B2 ADDED LINE 5
+// B2 ADDED LINE 6
 
-// ++++ ADDED LINE 8S
+// B2 ADDED LINE 8
+// B2 ADDED LINE 9
